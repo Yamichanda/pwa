@@ -1,7 +1,7 @@
 // キャッシュファイルの指定
 var CACHE_NAME = 'pwa-sample-caches';
 var urlsToCache = [
-	'/yamichanda.github.io/pwa/',
+	'/yamichanda.github.io/',
 ];
 
 // インストール処理
